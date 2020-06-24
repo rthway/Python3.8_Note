@@ -1,6 +1,7 @@
 # Python Built in Functions
 ### Python has a set of built-in functions.
 
+
 |   Function|  Description |
 | ------------ | ------------ |
 |	abs()	|	Returns the absolute value of a number	|
@@ -69,7 +70,3 @@
 |	tuple()	|	Returns a tuple	|
 |	type()	|	Returns the type of an object	|
 |	vars()	|	Returns the __dict__ property of an object	|
-
-
-
-
