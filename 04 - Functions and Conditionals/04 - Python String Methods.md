@@ -50,8 +50,30 @@ Python has a set of built-in methods that you can use on strings.
 |	zfill()	|	Fills the string with a specified number of 0 values at the beginning	|
 
 
-
-
+#### Python String capitalize() Method
+Upper case the first letter in this sentence:
+```python
+txt = "hello, and welcome to my world."
+x = txt.capitalize()
+print (x)
+# Output: Hello, and welcome to my world.
+```
+#### Python String casefold() Method
+Make the string lower case:
+```python
+txt = "Hello, And Welcome To My World!"
+x = txt.casefold()
+print(x)
+# Output: hello, and welcome to my world!
+```
+#### Python String center() Method
+The center() method will center align the string, using a specified character (space is default) as the fill character.
+```python
+txt = "banana"
+x = txt.center(20)
+print(x)
+# Output:        banana
+```
 
 
 
